@@ -13,11 +13,11 @@ password: password
 
 # Diccionario
 
-exchangeRate : Tipo de cambio
-originCurrencyCode : Codigo de Moneda de Origen
-destinyCurrencyCode : Codigo de Moneda de Destino
+exchangeRate : Tipo de cambio <br />
+originCurrencyCode : Codigo de Moneda de Origen <br />
+destinyCurrencyCode : Codigo de Moneda de Destino <br />
 
-initialAmount : Monto inicial (a convertir)
-initialCurrencyCode : Codigo de moneda desde el que se desea convertir
-finalCurrencyCode : Codigo de moneda al cual se desea convertir
-finalAmount : monto final aplicado el tipo de cambio
+initialAmount : Monto inicial (a convertir) <br />
+initialCurrencyCode : Codigo de moneda desde el que se desea convertir <br />
+finalCurrencyCode : Codigo de moneda al cual se desea convertir <br />
+finalAmount : monto final aplicado el tipo de cambio <br />
