@@ -8,7 +8,7 @@ En la carpeta "collections"  se encuentra la coleccion del POSTMAN para probar e
 # Autenticacion
 Usuario para poder probar el API:
 
-usuario: user
+usuario: user <br />
 password: password
 
 # Diccionario
